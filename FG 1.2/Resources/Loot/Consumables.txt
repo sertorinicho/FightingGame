@@ -1,0 +1,17 @@
+15
+Scroll_of_Fire 400 Deals_fire_damage E(-400,0,0,N) 1
+Scroll_of_Ice 401 Lowers_the_enemy's_defence E(0,0,-75,N) 1
+Scroll_of_Thunder 402 Lowers_the_enemy's_attack E(0,-75,0,N) 1
+Throwing_Darts 403 Throwable_deadly_knives E(-200,0,0,N) 3
+Potion_of_Healing 404 Heals_some_of_your_HP E(300,0,0,S) 3
+Vial_of_Acid 405 Damages_and_corrodes_the_opponents_gear E(-75,-25,-25,N) 3
+Berserk_Potion 406 Makes_you_bloodthirsty E(0,150,-75,S) 2
+Good_Wine 407 Take_a_sip_and_relax E(400,-25,25,S) 3
+Elisir_of_Strength 408 Makes_you_stronger_and_deadlier E(0,75,0,S) 2
+Snake_Venom 409 Weakens_the_opponent E(0,0,-50,N) 3
+Ring_of_Power 410 Makes_you_mighty E(0,50,50,S) 1
+Vaccine_of_Immunity 411 Fuck_Covid E(250,0,25,S) 2
+Gold_Necklace 412 It's_intimidating E(0,-75,0,N) 1
+Big_Ruby 413 Emanates_a_relaxing_aura E(200,25,25,S) 3
+Rotting_Meat 414 Unknown_Effect E(0,0,0,S) 5
+Healing_Flask 415 Knights'_favourite_liquor E(250,50,0) 2

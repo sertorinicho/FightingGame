@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Loot/Equipment.txt</file>
+        <file>Resources/Loot/Staves.txt</file>
+        <file>Resources/Images/enemy1.png</file>
+        <file>Resources/Images/enemy2.png</file>
+        <file>Resources/Images/enemy3.png</file>
+        <file>Resources/Images/fglogo.png</file>
+        <file>Resources/Loot/Consumables.txt</file>
+        <file>Resources/info.txt</file>
+    </qresource>
+</RCC>

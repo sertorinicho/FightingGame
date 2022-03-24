@@ -1,0 +1,24 @@
+20
+Commoner's_Sword 100 400 W 10
+Iron_Sword 101 500 W 10
+Steel_Sword 102 550 W 12
+Ivory_Club 103 450 W 15
+Rusty_Trident 104 400 W 9
+Versatile_Bastard_Sword 105 600 W 10
+ZweiHander 106 700 W 12
+King's_Glave 107 750 W 13
+Babilon_Sabre 108 500 W 10
+Flaming_Falcion 109 650 W 10
+Peasant's_Clothes 150 400 A 10
+Sentinel_Armor 151 550 A 12
+Cloth 152 350 A 10
+Gold_Bracers 153 500 A 10
+Heavy_Helmet 154 550 A 10
+Boots_of_Haste 155 450 A 10
+Leather_Cuirass 156 500 A 12
+Havel's_Armor 157 700 A 15
+Studded_Leather_Armor 158 600 A 12
+Armor_of_Agathys 159 650 A 9
+
+
+

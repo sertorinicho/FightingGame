@@ -1,0 +1,6 @@
+5
+Miasma_Staff 200 Spreads_deadly_diseases E(-300,-30,0,N) 400 10
+Wand_of_Sparks 201 Electrocutes_the_Enemy E(-300,0,-30,N) 500 10
+Vampire_Staff 202 Restores_some_of_your_HP E(500,0,0,S) 600 10
+Shielding_Staff 203 Creates_a_magic_barrier E(0,0,75,S) 400 10
+Wand_of_Power 204 Makes_your_attacks_stronger E(0,75,0,S) 550 10
