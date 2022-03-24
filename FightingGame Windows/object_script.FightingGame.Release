@@ -1,0 +1,17 @@
+release/character.o
+release/consumable.o
+release/controller.o
+release/equipment.o
+release/item.o
+release/itembutton.o
+release/loot.o
+release/main.o
+release/fightinggame.o
+release/model.o
+release/staff.o
+release/equipmentradiobutton.o
+release/qrc_Resources.o
+release/moc_controller.o
+release/moc_fightinggame.o
+release/moc_itembutton.o
+release/moc_equipmentradiobutton.o

@@ -1,0 +1,17 @@
+debug/character.o
+debug/consumable.o
+debug/controller.o
+debug/equipment.o
+debug/item.o
+debug/itembutton.o
+debug/loot.o
+debug/main.o
+debug/fightinggame.o
+debug/model.o
+debug/staff.o
+debug/equipmentradiobutton.o
+debug/qrc_Resources.o
+debug/moc_controller.o
+debug/moc_fightinggame.o
+debug/moc_itembutton.o
+debug/moc_equipmentradiobutton.o
